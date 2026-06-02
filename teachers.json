@@ -1,0 +1,10 @@
+[
+    {
+        "Courses": [],
+        "ID": "---teacher id---",
+        "Name": "---teacher name---",
+        "Password": "---teacher Password---",
+        "correction_list": [],
+        "number_of_courses": "--- how many courses does the teacher teach---"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "Attended_students": [],
+        "Code": "---code of the exam---",
+        "Name": "---name of the exam---",
+        "Questions": [],
+        "designer": "---name of designer---",
+        "designer_id": "---designer id---",
+        "number_of_Questions": 0.0,
+        "participated_students": [],
+        "student_Grades": [],
+        "time": 0
+    }
+]

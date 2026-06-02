@@ -1,0 +1,18 @@
+[
+    {
+        "Field": "Computer Science",
+        "ID": "610303148",
+        "Name": "Alireza",
+        "Password": "2006",
+        "Scores_table": {
+            "Correct_Answers": [],
+            "Student_Answers": [],
+            "questions": [],
+            "scores": [],
+            "short_scores_sigma": 0.0,
+            "test_scores_sigma": 0.0
+        },
+        "participated_exams": [],
+        "scores": []
+    }
+]
